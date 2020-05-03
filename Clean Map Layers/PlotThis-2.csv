@@ -1,0 +1,9 @@
+"","Type","Category","Percentage"
+"1","Homegrown","less than 10 ppb",60.5263157894737
+"2","Purchased","less than 10 ppb",38.4615384615385
+"3","Homegrown","10 to 20 ppb",13.1578947368421
+"4","Purchased","10 to 20 ppb",17.3076923076923
+"5","Homegrown","20 to 50 ppb",15.7894736842105
+"6","Purchased","20 to 50 ppb",17.3076923076923
+"7","Homegrown","more than 50 ppb",10.5263157894737
+"8","Purchased","more than 50 ppb",26.9230769230769

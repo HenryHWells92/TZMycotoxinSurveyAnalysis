@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>WAYPOINT</name>
+  <Placemark>
+	<name>10Nov15-01</name>
+	<description>10-NOV-15 4:05:45AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-5.81371956</SimpleData>
+		<SimpleData name="Longitude">36.43656249</SimpleData>
+		<SimpleData name="y_proj">-5.81371956</SimpleData>
+		<SimpleData name="x_proj">36.43656249</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1210.90</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/09 23:05:45</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">10-NOV-15 4:05:45AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.436562492,-5.813719556,1210.897217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10Nov15-02</name>
+	<description>10-NOV-15 5:02:13AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-5.81358561</SimpleData>
+		<SimpleData name="Longitude">36.43652888</SimpleData>
+		<SimpleData name="y_proj">-5.81358561</SimpleData>
+		<SimpleData name="x_proj">36.43652888</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1209.21</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/10 00:02:13</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">10-NOV-15 5:02:13AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.43652888,-5.813585613,1209.214844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10Nov15-03</name>
+	<description>10-NOV-15 7:43:56AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-5.81483720</SimpleData>
+		<SimpleData name="Longitude">36.43487781</SimpleData>
+		<SimpleData name="y_proj">-5.81483720</SimpleData>
+		<SimpleData name="x_proj">36.43487781</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">0.00</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/10 02:43:56</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">10-NOV-15 7:43:56AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.434877813,-5.814837199,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10Nov15-04</name>
+	<description>10-NOV-15 9:04:06AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-5.84866664</SimpleData>
+		<SimpleData name="Longitude">36.38366665</SimpleData>
+		<SimpleData name="y_proj">-5.84866664</SimpleData>
+		<SimpleData name="x_proj">36.38366665</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1172.20</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/10 04:04:06</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">10-NOV-15 9:04:06AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.383666648,-5.848666644,1172.20459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10Nov15-05</name>
+	<description>10-NOV-15 9:47:11AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-5.80602639</SimpleData>
+		<SimpleData name="Longitude">36.38045127</SimpleData>
+		<SimpleData name="y_proj">-5.80602639</SimpleData>
+		<SimpleData name="x_proj">36.38045127</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1196.00</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/10 04:47:11</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">10-NOV-15 9:47:11AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.380451266,-5.806026394,1195.996826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11Nov15-01</name>
+	<description>11-NOV-15 3:05:49AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-6.22594080</SimpleData>
+		<SimpleData name="Longitude">36.47654233</SimpleData>
+		<SimpleData name="y_proj">-6.22594080</SimpleData>
+		<SimpleData name="x_proj">36.47654233</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1179.65</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/10 22:05:49</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">11-NOV-15 3:05:49AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.476542326,-6.225940799,1179.654541</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11Nov15-02</name>
+	<description>11-NOV-15 4:28:02AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-6.22594130</SimpleData>
+		<SimpleData name="Longitude">36.47654249</SimpleData>
+		<SimpleData name="y_proj">-6.22594130</SimpleData>
+		<SimpleData name="x_proj">36.47654249</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">0.00</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/10 23:28:02</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">11-NOV-15 4:28:02AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.476542493,-6.225941302,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11Nov15-03</name>
+	<description>11-NOV-15 6:58:47AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-6.16164029</SimpleData>
+		<SimpleData name="Longitude">36.48955045</SimpleData>
+		<SimpleData name="y_proj">-6.16164029</SimpleData>
+		<SimpleData name="x_proj">36.48955045</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1110.20</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/11 01:58:47</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">11-NOV-15 6:58:47AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.489550453,-6.161640286,1110.199951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11Nov15-04</name>
+	<description>11-NOV-15 7:51:46AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-6.14870944</SimpleData>
+		<SimpleData name="Longitude">36.47551345</SimpleData>
+		<SimpleData name="y_proj">-6.14870944</SimpleData>
+		<SimpleData name="x_proj">36.47551345</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1029.69</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/11 02:51:46</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">11-NOV-15 7:51:46AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.475513447,-6.148709441,1029.689941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12Nov15-01</name>
+	<description>12-NOV-15 4:06:44AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-6.04342620</SimpleData>
+		<SimpleData name="Longitude">36.57327091</SimpleData>
+		<SimpleData name="y_proj">-6.04342620</SimpleData>
+		<SimpleData name="x_proj">36.57327091</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1227.00</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/11 23:06:44</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">12-NOV-15 4:06:44AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.573270913,-6.043426199,1226.999023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12Nov15-02</name>
+	<description>12-NOV-15 6:14:57AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-5.99594205</SimpleData>
+		<SimpleData name="Longitude">36.55068378</SimpleData>
+		<SimpleData name="y_proj">-5.99594205</SimpleData>
+		<SimpleData name="x_proj">36.55068378</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1210.66</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/12 01:14:57</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">12-NOV-15 6:14:57AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.55068378,-5.995942047,1210.656982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12Nov15-03</name>
+	<description>12-NOV-15 7:24:32AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-5.99242609</SimpleData>
+		<SimpleData name="Longitude">36.55065453</SimpleData>
+		<SimpleData name="y_proj">-5.99242609</SimpleData>
+		<SimpleData name="x_proj">36.55065453</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1193.83</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/12 02:24:32</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">12-NOV-15 7:24:32AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.550654527,-5.99242609,1193.83374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12Nov15-04</name>
+	<description>12-NOV-15 7:58:39AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-5.99289623</SimpleData>
+		<SimpleData name="Longitude">36.55040173</SimpleData>
+		<SimpleData name="y_proj">-5.99289623</SimpleData>
+		<SimpleData name="x_proj">36.55040173</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1194.80</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/12 02:58:39</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">12-NOV-15 7:58:39AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.550401729,-5.992896231,1194.795166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13Nov15-01</name>
+	<description>13-NOV-15 3:23:46AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-5.80476684</SimpleData>
+		<SimpleData name="Longitude">36.46624222</SimpleData>
+		<SimpleData name="y_proj">-5.80476684</SimpleData>
+		<SimpleData name="x_proj">36.46624222</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1249.59</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/12 22:23:46</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">13-NOV-15 3:23:46AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.466242224,-5.804766845,1249.589844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13Nov15-02</name>
+	<description>13-NOV-15 4:29:31AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-5.80605179</SimpleData>
+		<SimpleData name="Longitude">36.46663416</SimpleData>
+		<SimpleData name="y_proj">-5.80605179</SimpleData>
+		<SimpleData name="x_proj">36.46663416</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1238.53</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/12 23:29:31</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">13-NOV-15 4:29:31AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.466634162,-5.806051791,1238.534912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13Nov15-03</name>
+	<description>13-NOV-15 6:29:37AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-5.78025665</SimpleData>
+		<SimpleData name="Longitude">36.46233005</SimpleData>
+		<SimpleData name="y_proj">-5.78025665</SimpleData>
+		<SimpleData name="x_proj">36.46233005</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1236.85</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/13 01:29:37</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">13-NOV-15 6:29:37AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.462330054,-5.780256651,1236.852539</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18Nov15-02</name>
+	<description>18-NOV-15 4:03:29AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-6.03147880</SimpleData>
+		<SimpleData name="Longitude">36.32269300</SimpleData>
+		<SimpleData name="y_proj">-6.03147880</SimpleData>
+		<SimpleData name="x_proj">36.32269300</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1025.60</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/17 23:03:29</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">18-NOV-15 4:03:29AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.322692996,-6.031478802,1025.604492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18Nov15-03</name>
+	<description>18-NOV-15 5:26:25AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-5.96319362</SimpleData>
+		<SimpleData name="Longitude">36.35346137</SimpleData>
+		<SimpleData name="y_proj">-5.96319362</SimpleData>
+		<SimpleData name="x_proj">36.35346137</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1058.77</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/18 00:26:25</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">18-NOV-15 5:26:25AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.35346137,-5.963193616,1058.769775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19Nov15-01</name>
+	<description>19-NOV-15 4:14:39AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-5.88907697</SimpleData>
+		<SimpleData name="Longitude">36.61600697</SimpleData>
+		<SimpleData name="y_proj">-5.88907697</SimpleData>
+		<SimpleData name="x_proj">36.61600697</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1269.30</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/18 23:14:39</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">19-NOV-15 4:14:39AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.616006969,-5.889076972,1269.296875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19Nov15-02</name>
+	<description>19-NOV-15 5:16:37AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-5.88856241</SimpleData>
+		<SimpleData name="Longitude">36.61543432</SimpleData>
+		<SimpleData name="y_proj">-5.88856241</SimpleData>
+		<SimpleData name="x_proj">36.61543432</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1280.35</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/19 00:16:37</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">19-NOV-15 5:16:37AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.615434317,-5.888562407,1280.351807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19Nov15-03</name>
+	<description>19-NOV-15 7:11:23AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-6.02405302</SimpleData>
+		<SimpleData name="Longitude">36.64217561</SimpleData>
+		<SimpleData name="y_proj">-6.02405302</SimpleData>
+		<SimpleData name="x_proj">36.64217561</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1183.26</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/19 02:11:23</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">19-NOV-15 7:11:23AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.642175606,-6.024053022,1183.259521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20Nov15-01</name>
+	<description>20-NOV-15 4:21:58AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-5.75523298</SimpleData>
+		<SimpleData name="Longitude">36.54230573</SimpleData>
+		<SimpleData name="y_proj">-5.75523298</SimpleData>
+		<SimpleData name="x_proj">36.54230573</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1285.16</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/19 23:21:58</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">20-NOV-15 4:21:58AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.542305732,-5.755232982,1285.158447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20Nov15-02</name>
+	<description>20-NOV-15 4:53:51AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-5.75346239</SimpleData>
+		<SimpleData name="Longitude">36.53955353</SimpleData>
+		<SimpleData name="y_proj">-5.75346239</SimpleData>
+		<SimpleData name="x_proj">36.53955353</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1291.17</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/19 23:53:51</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">20-NOV-15 4:53:51AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.539553534,-5.753462389,1291.166504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20Nov15-03</name>
+	<description>20-NOV-15 6:26:14AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-5.76081181</SimpleData>
+		<SimpleData name="Longitude">36.54889248</SimpleData>
+		<SimpleData name="y_proj">-5.76081181</SimpleData>
+		<SimpleData name="x_proj">36.54889248</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1307.51</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/20 01:26:14</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">20-NOV-15 6:26:14AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.548892483,-5.760811809,1307.509033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20Nov15-04</name>
+	<description>20-NOV-15 6:59:53AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-5.76664176</SimpleData>
+		<SimpleData name="Longitude">36.54871495</SimpleData>
+		<SimpleData name="y_proj">-5.76664176</SimpleData>
+		<SimpleData name="x_proj">36.54871495</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1308.47</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/20 01:59:53</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">20-NOV-15 6:59:53AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.548714954,-5.766641758,1308.470215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kibaigua Mkt</name>
+	<description>14-NOV-15 4:10:02AM</description>
+	<ExtendedData><SchemaData schemaUrl="#WAYPOINT">
+		<SimpleData name="type">WAYPOINT</SimpleData>
+		<SimpleData name="Latitude">-6.07805343</SimpleData>
+		<SimpleData name="Longitude">36.64585317</SimpleData>
+		<SimpleData name="y_proj">-6.07805343</SimpleData>
+		<SimpleData name="x_proj">36.64585317</SimpleData>
+		<SimpleData name="display"></SimpleData>
+		<SimpleData name="symbol">Custom 0</SimpleData>
+		<SimpleData name="dist">0.00</SimpleData>
+		<SimpleData name="proximity"></SimpleData>
+		<SimpleData name="color"></SimpleData>
+		<SimpleData name="altitude">1173.17</SimpleData>
+		<SimpleData name="depth">0.00</SimpleData>
+		<SimpleData name="temp">0.00</SimpleData>
+		<SimpleData name="time"></SimpleData>
+		<SimpleData name="wpt_class"></SimpleData>
+		<SimpleData name="sub_class"></SimpleData>
+		<SimpleData name="attrib"></SimpleData>
+		<SimpleData name="link"></SimpleData>
+		<SimpleData name="state"></SimpleData>
+		<SimpleData name="country"></SimpleData>
+		<SimpleData name="city"></SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="zip"></SimpleData>
+		<SimpleData name="facility"></SimpleData>
+		<SimpleData name="crossroad"></SimpleData>
+		<SimpleData name="ete"></SimpleData>
+		<SimpleData name="dtype"></SimpleData>
+		<SimpleData name="model">garmin eTrex Legend</SimpleData>
+		<SimpleData name="filename"></SimpleData>
+		<SimpleData name="ltime">2015/11/13 23:10:02</SimpleData>
+		<SimpleData name="magvar">0.00</SimpleData>
+		<SimpleData name="geoidheight">0.00</SimpleData>
+		<SimpleData name="desc">14-NOV-15 4:10:02AM</SimpleData>
+		<SimpleData name="fix"></SimpleData>
+		<SimpleData name="hdop">0.00</SimpleData>
+		<SimpleData name="vdop">0.00</SimpleData>
+		<SimpleData name="pdop">0.00</SimpleData>
+		<SimpleData name="dir"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.645853166,-6.078053433,1173.165771</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="WAYPOINT" id="WAYPOINT">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="y_proj" type="float"></SimpleField>
+	<SimpleField name="x_proj" type="float"></SimpleField>
+	<SimpleField name="display" type="string"></SimpleField>
+	<SimpleField name="symbol" type="string"></SimpleField>
+	<SimpleField name="dist" type="float"></SimpleField>
+	<SimpleField name="proximity" type="string"></SimpleField>
+	<SimpleField name="color" type="string"></SimpleField>
+	<SimpleField name="altitude" type="float"></SimpleField>
+	<SimpleField name="depth" type="float"></SimpleField>
+	<SimpleField name="temp" type="float"></SimpleField>
+	<SimpleField name="time" type="string"></SimpleField>
+	<SimpleField name="wpt_class" type="string"></SimpleField>
+	<SimpleField name="sub_class" type="string"></SimpleField>
+	<SimpleField name="attrib" type="string"></SimpleField>
+	<SimpleField name="link" type="string"></SimpleField>
+	<SimpleField name="state" type="string"></SimpleField>
+	<SimpleField name="country" type="string"></SimpleField>
+	<SimpleField name="city" type="string"></SimpleField>
+	<SimpleField name="address" type="string"></SimpleField>
+	<SimpleField name="zip" type="string"></SimpleField>
+	<SimpleField name="facility" type="string"></SimpleField>
+	<SimpleField name="crossroad" type="string"></SimpleField>
+	<SimpleField name="ete" type="string"></SimpleField>
+	<SimpleField name="dtype" type="string"></SimpleField>
+	<SimpleField name="model" type="string"></SimpleField>
+	<SimpleField name="filename" type="string"></SimpleField>
+	<SimpleField name="ltime" type="string"></SimpleField>
+	<SimpleField name="magvar" type="float"></SimpleField>
+	<SimpleField name="geoidheight" type="float"></SimpleField>
+	<SimpleField name="desc" type="string"></SimpleField>
+	<SimpleField name="fix" type="string"></SimpleField>
+	<SimpleField name="sat" type="int"></SimpleField>
+	<SimpleField name="hdop" type="float"></SimpleField>
+	<SimpleField name="vdop" type="float"></SimpleField>
+	<SimpleField name="pdop" type="float"></SimpleField>
+	<SimpleField name="ageofdgpsdata" type="int"></SimpleField>
+	<SimpleField name="dgpsid" type="int"></SimpleField>
+	<SimpleField name="dir" type="string"></SimpleField>
+</Schema>
+</Document></kml>

@@ -1,0 +1,8 @@
+"","Variable","Value","Data_Type","Data_Source"
+"1","Historical Pre-Harvest Rainfall (December-April)","8km Buffer Mean","~1km raster","WorldClim"
+"2","Historical Peri-Harvest Rainfall (May-July)","8km Buffer Mean","~1km raster","WorldClim"
+"3","Elevation","8km Buffer Mean","~1km raster","CGIAR-SRTM"
+"4","Slope","8km Buffer Mean","~1km raster","CGIAR-SRTM"
+"5","Aspect (categorical)","Dominant category in 8km buffer","~1km raster","CGIAR-SRTM"
+"6","Source of Sample","Homegrown or Purchased? (Mills: p(Homegrown))","Survey Data","Nov. 2015 Kongwa Survey"
+"7","Mycotoxin data","ppb value for AF","Survey Data","Nov. 2015 Kongwa Survey"
